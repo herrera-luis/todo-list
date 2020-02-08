@@ -1,8 +1,8 @@
 # Todo List NodeJS
 
-Aplicación utilizada para el programa de infraestructura 101
+Aplication used on Infraestructure 101 program
 
-## How to use
+## How to run
 
 In your terminal to get the commands availables execute next command:
 
